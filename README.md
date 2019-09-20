@@ -6,10 +6,10 @@ https://github.com/mjdargen
 September 19, 2019*   
 \
 \
-*Ask the Magic 8-Ball any question.  
-*https://en.wikipedia.org/wiki/Magic_8-Ball  
-*An Arduino-version of the fortune-telling toy.  
-*Uses 16x2 LCD Screen and switch of your choice.  
+* Ask the Magic 8-Ball any question.  
+* https://en.wikipedia.org/wiki/Magic_8-Ball  
+* An Arduino-version of the fortune-telling toy.  
+* Uses 16x2 LCD Screen and switch of your choice.  
 \
 \
 **The LCD circuit (16x2):**
