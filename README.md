@@ -1,9 +1,9 @@
 # Magic-8-Ball
-**Michael D'Argenio  
+*Michael D'Argenio  
 mjdargenio@gmail.com  
 https://dargenio.dev  
 https://github.com/mjdargen  
-September 19, 2019**  
+September 19, 2019*   
 \
 \
 *Ask the Magic 8-Ball any question.  
@@ -25,9 +25,9 @@ September 19, 2019**
 * wiper to LCD VO pin (pin 3)  
 \
 \
-**Switch:**
-A tilt ball switch works nicely to mimic an actual magic 8-ball, but any switch will do.
+**Switch:**  
+* A tilt ball switch works nicely to mimic an actual magic 8-ball, but any switch will do.
 * Digital input 2
 * Configured as external interrupt
-* Connected with 10k resistor to GND
+* Pulled down with 10k resistor to GND
 * Other end of switch connected to 5V
