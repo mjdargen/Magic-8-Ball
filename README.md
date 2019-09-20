@@ -23,6 +23,7 @@ September 19, 2019*
  10K potentiometer:
 * ends to +5V and ground
 * wiper to LCD VO pin (pin 3)
+
 [//]: # (Hello)
       \
       \
