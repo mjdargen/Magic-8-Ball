@@ -20,7 +20,7 @@
   * LCD D6 pin to digital pin 11
   * LCD D7 pin to digital pin 12
   * LCD R/W pin to ground
-  * 10K potentiometer:
+   10K potentiometer:
   * ends to +5V and ground
   * wiper to LCD VO pin (pin 3)
 
@@ -29,7 +29,7 @@
   actual magic 8-ball, but any switch will do.
   * Digital input 2
   * Configured as external interrupt
-  * Connected with 10k resistor to GND
+  * Pulled down with 10k resistor to GND
   * Other end of switch connected to 5V
 
 */
