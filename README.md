@@ -4,8 +4,7 @@ mjdargenio@gmail.com
 https://dargenio.dev  
 https://github.com/mjdargen  
 September 19, 2019*   
-\
-\
+
 * Ask the Magic 8-Ball any question.  
 * https://en.wikipedia.org/wiki/Magic_8-Ball  
 * An Arduino-version of the fortune-telling toy.  
