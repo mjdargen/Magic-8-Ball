@@ -21,11 +21,13 @@ September 19, 2019*
 * LCD D7 pin to digital pin 12
 * LCD R/W pin to ground
  10K potentiometer:
-* ends to +5V and ground
-* wiper to LCD VO pin (pin 3)  
-\
-\
-**Switch:**  
+- ends to +5V and ground
+- wiper to LCD VO pin (pin 3)
+
+[//]: # (Hello)
+      \
+      \
+**Switch**
 * A tilt ball switch works nicely to mimic an actual magic 8-ball, but any switch will do.
 * Digital input 2
 * Configured as external interrupt
