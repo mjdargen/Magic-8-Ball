@@ -22,14 +22,27 @@ September 19, 2019*
 * LCD R/W pin to ground
  10K potentiometer:
 * ends to +5V and ground
-* wiper to LCD VO pin (pin 3)
+* wiper to LCD VO pin (pin 3)  
 
 [//]: # (Hello)
-      \
-      \
+      
 **Switch**
 * A tilt ball switch works nicely to mimic an actual magic 8-ball, but any switch will do.
 * Digital input 2
 * Configured as external interrupt
 * Pulled down with 10k resistor to GND
-* Other end of switch connected to 5V
+* Other end of switch connected to 5V  
+
+
+[//]: # (Hello)  
+      
+
+<p align="center">
+  <img src="https://github.com/mjdargen/Magic-8-Ball/blob/master/magic8ball_bb.png" width="600">
+</p>
+
+<p align="center">
+  <img src="https://github.com/mjdargen/Magic-8-Ball/blob/master/magic8ball_schem.png" width="600">
+</p>
+      
+
