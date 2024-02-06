@@ -2,8 +2,8 @@
   
   Magic 8-Ball
   Michael D'Argenio
-  mjdargenio@gmail.com
-  https://dargenio.dev
+  mjdargen@gmail.com  
+  https://dargen.io
   https://github.com/mjdargen
   September 19, 2019
 
